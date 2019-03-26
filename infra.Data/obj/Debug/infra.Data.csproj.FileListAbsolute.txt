@@ -1,0 +1,14 @@
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\infra.Data.dll.config
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\infra.Data.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\infra.Data.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\obj\Debug\infra.Data.csprojAssemblyReference.cache
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\obj\Debug\infra.Data.csproj.CoreCompileInputs.cache
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\obj\Debug\infra.Data.csproj.CopyComplete
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\obj\Debug\infra.Data.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\obj\Debug\infra.Data.pdb
