@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Collections.Generic;
 
 namespace ProjetoModeloDDD.Domain.Entities
 {
@@ -12,6 +13,8 @@ namespace ProjetoModeloDDD.Domain.Entities
         public DateTime DataCadastro { get; set; }
 
         public bool Ativo { get; set; }
+
+        public IEnumerable<Produto> Produto { get; set; } //Referencia da Class Cliente
 
         //Validar cliente especial
         public bool ClienteEspecial(Cliente cliente)

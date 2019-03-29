@@ -49,13 +49,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto\ProjetoModeloContexto.cs" />
+    <Compile Include="EntityConfig\ClienteConfiguration.cs" />
+    <Compile Include="EntityConfig\ProdutoConfiguration.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ClienteRepository.cs" />
+    <Compile Include="Repositories\ProdutoRepository.cs" />
+    <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="EntityConfig\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ProjetoModeloDDD.Domain\ProjetoModeloDDD.Domain.csproj">
       <Project>{c73f7606-c090-48a3-bf60-8478d692b96c}</Project>
