@@ -3,7 +3,10 @@ D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\infra.Data
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\infra.Data.pdb
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Application.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Application.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Application.dll.config
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.xml
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\infra.Data\bin\Debug\EntityFramework.SqlServer.xml

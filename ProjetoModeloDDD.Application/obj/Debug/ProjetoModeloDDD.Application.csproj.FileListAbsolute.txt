@@ -1,6 +1,12 @@
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll.config
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.SqlServer.xml
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CopyComplete
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb

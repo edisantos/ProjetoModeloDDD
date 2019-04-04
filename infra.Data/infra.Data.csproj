@@ -59,6 +59,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj">
+      <Project>{041c9cd5-6b1d-42dd-b520-581a09c26cf5}</Project>
+      <Name>ProjetoModeloDDD.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProjetoModeloDDD.Domain\ProjetoModeloDDD.Domain.csproj">
       <Project>{c73f7606-c090-48a3-bf60-8478d692b96c}</Project>
       <Name>ProjetoModeloDDD.Domain</Name>
