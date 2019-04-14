@@ -1,15 +1,19 @@
-﻿using ProjetoModeloDDD.Domain.Services;
+﻿using ProjetoModeloDDD.Domain.Interfaces.Services;
+using ProjetoModeloDDD.Domain.Services;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjetoModeloDDD.Application.Interface
 {
     public class AppServiceBase<TEntity> : IDisposable, IAppServiceBase<TEntity> where TEntity : class
     {
-        private readonly ServiceBase<TEntity> _serviceBase;
+        private readonly IServicesBase<TEntity> _serviceBase;
+
+        //Contrutor
+        public AppServiceBase(IServicesBase<TEntity> serviceBase)
+        {
+            _serviceBase = serviceBase;
+        }
 
         public void Add(TEntity obj)
         {

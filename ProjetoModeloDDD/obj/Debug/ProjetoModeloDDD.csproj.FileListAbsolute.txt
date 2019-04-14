@@ -52,7 +52,6 @@ D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\AutoMapper
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\AutoMapper.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\EntityFramework.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\EntityFramework.SqlServer.dll
-D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Microsoft.Web.Infrastructure.dll
@@ -68,8 +67,6 @@ D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\System.Web
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\System.Web.WebPages.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\System.Web.WebPages.Razor.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\WebGrease.dll
-D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.pdb
-D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.dll.config
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\ProjetoModeloDDD.Domain.pdb
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\AutoMapper.pdb
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\AutoMapper.xml
@@ -101,3 +98,20 @@ D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\obj\Debug\Proj
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\obj\Debug\ProjetoModeloDDD.csproj.CopyComplete
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\obj\Debug\ProjetoModeloDDD.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\obj\Debug\ProjetoModeloDDD.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\ProjetoModeloDDD.Application.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\ProjetoModeloDDD.Application.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\ProjetoModeloDDD.Application.dll.config
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Common.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Common.WebHost.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Mvc.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Common.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Common.WebHost.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.Web.Mvc.xml
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Infra.CrossCutting.loC.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Ninject.MVC.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\Infra.CrossCutting.loC.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD\bin\infra.Data.dll.config

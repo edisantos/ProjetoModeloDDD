@@ -10,3 +10,5 @@ D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\ob
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CopyComplete
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
 D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\PROJETO_DDD\EduardoPiresProjetoDDD\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb

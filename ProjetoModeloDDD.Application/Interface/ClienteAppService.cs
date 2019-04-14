@@ -11,7 +11,7 @@ namespace ProjetoModeloDDD.Application.Interface
         private readonly IClienteService _clienteService;
 
         public ClienteAppService(IClienteService clienteService)
-         :base(clienteService)
+            :base(clienteService)
         {
             _clienteService = clienteService;
         }
